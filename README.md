@@ -48,7 +48,8 @@
 ## Output:
 <img width="1917" height="810" alt="image" src="https://github.com/user-attachments/assets/68ec2839-af50-44fb-8d58-ea7ae021e015" />
 <img width="1917" height="732" alt="image" src="https://github.com/user-attachments/assets/95b96ed0-0960-4db5-9b0a-79f553a9b977" />
-![Uploading image.png…]()
+<img width="1917" height="712" alt="image" src="https://github.com/user-attachments/assets/891b9678-42e1-4aec-972f-fcd9412083f3" />
+
 
 
 ### Name:Jayapriya P 
