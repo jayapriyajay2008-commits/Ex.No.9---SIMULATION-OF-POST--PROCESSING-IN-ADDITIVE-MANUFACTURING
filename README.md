@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-<img width="837" height="308" alt="image" src="https://github.com/user-attachments/assets/2fd4e063-71a3-4aed-806b-893a00134a0d" />
-<img width="822" height="287" alt="image" src="https://github.com/user-attachments/assets/94f45f21-945d-4964-9ef7-c39ffc9f5987" />
-<img width="845" height="306" alt="image" src="https://github.com/user-attachments/assets/eac83916-9782-4026-9c7f-a67be7902140" />
+<img width="1917" height="810" alt="image" src="https://github.com/user-attachments/assets/68ec2839-af50-44fb-8d58-ea7ae021e015" />
+<img width="1917" height="732" alt="image" src="https://github.com/user-attachments/assets/95b96ed0-0960-4db5-9b0a-79f553a9b977" />
+![Uploading image.png…]()
+
 
 ### Name:Jayapriya P 
 ### Register Number:212225040144
